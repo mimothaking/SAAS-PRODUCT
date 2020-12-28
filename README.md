@@ -9,3 +9,6 @@
 (HTM5) و أيضا (CSS3)  (JAVASCRIPT) موقع مبسط استعملت لانشائه
 ## موقع استعنت به
 [codingnepalweb](https://www.codingnepalweb.com) تنشيط بعض الازرار و الصور كان بمساعدة قوالب جاهزة من الموقع 
+## الواجهة الأولى
+![Screenshot (85)](https://user-images.githubusercontent.com/61361554/103245081-5adbb100-495f-11eb-9fc0-449edae7055f.png)
+## المنصة
